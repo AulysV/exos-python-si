@@ -1,5 +1,6 @@
 # Exos de python en SI
 
-Version en ligne : ...
+Version en ligne : https://aulysv.github.io/exos-python-si/
 
-Version PDF : ...
+Version PDF : [Exos python si.pdf](https://github.com/AulysV/exos-python-si/files/8337216/Exos.python.si.pdf)
+
